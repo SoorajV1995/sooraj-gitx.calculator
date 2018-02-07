@@ -1,0 +1,30 @@
+body {
+	background: linear-gradient(to right, rgb(165, 35, 220), rgb(36, 219, 201));
+	color:white;
+}
+
+p {
+	font-family: 'Roboto Slab', serif;
+}
+
+input {
+	border-style: none;
+	border-radius: 11px;
+}
+
+.card {
+	margin-top: 250px;
+	margin-right: 500px;
+	margin-left: 580px;
+	border:none;
+	background-color: rgba(62, 46, 50,0.2);
+}
+
+
+.btn-primary{
+
+	border-radius: 300px;
+	transition: all 1s;
+	background-color: #FF894D;
+	border: 1px solid #FF894D;
+}
